@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as a,a2 as i}from"./chunks/framework.BXMoTSpH.js";const b=JSON.parse('{"title":"Soft bundles","description":"","frontmatter":{},"headers":[],"relativePath":"soft.md","filePath":"soft.md"}'),n={name:"soft.md"},s=i("",7),l=[s];function o(r,c,d,h,p,u){return a(),t("div",null,l)}const m=e(n,[["render",o]]);export{b as __pageData,m as default};

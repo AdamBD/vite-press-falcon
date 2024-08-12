@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as a,a2 as s}from"./chunks/framework.BXMoTSpH.js";const m=JSON.parse('{"title":"Super bundles","description":"","frontmatter":{},"headers":[],"relativePath":"super.md","filePath":"super.md"}'),i={name:"super.md"},l=s("",7),n=[l];function o(r,c,p,u,h,d){return a(),t("div",null,n)}const f=e(i,[["render",o]]);export{m as __pageData,f as default};
